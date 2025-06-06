@@ -3,9 +3,9 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This is a tutorial that will outline the prerequisites and installation process of the open-source help desk ticketing system osTicket.<br>
 
-
+<br>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -13,9 +13,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop
 - Internet Information Services (IIS)
 
+
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>List of Prerequisites</h2>
 
@@ -96,6 +97,7 @@ Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 <br>
 Note that some extensions are not enabled<br>
+<br>
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
 Click “Enable or disable an extension”<br>
